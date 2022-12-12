@@ -26,4 +26,4 @@ Olá! Eu sou o Guilherme Ferreira
 
  
 ![snake gif](https://github.com/guilherme90rr/guilherme90rr/blob/output/github-contribution-grid-snake.svg)
-</div>
+
