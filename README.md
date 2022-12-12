@@ -24,6 +24,6 @@ Olá! Eu sou o Guilherme Ferreira
   <a href="https://www.linkedin.com/in/guilhermescs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>  
+ 
 ![snake gif](https://github.com/guilherme90rr/guilherme90rr/blob/output/github-contribution-grid-snake.svg)
 </div>
